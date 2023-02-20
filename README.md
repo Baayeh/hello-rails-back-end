@@ -52,6 +52,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Link To Frontend <a name="frontend"></a>
+
 Click here to get the [frontend repo](https://github.com/Baayeh/hello-react-front-end)
 
 <!-- GETTING STARTED -->
@@ -144,7 +145,6 @@ If you like this project, kindly give it a star⭐️
 I would like to thank
 
 - Microverse
-- [David Übelacker](https://betterprogramming.pub/react-with-rails-2022-bd28e1fcd355#ad0a)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
